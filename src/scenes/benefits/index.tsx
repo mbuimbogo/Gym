@@ -6,6 +6,7 @@ import {
   AcademicCapIcon,
 } from "@heroicons/react/24/solid";
 import { motion } from "framer-motion";
+import Benefit from "./Benefit";
 
 const benefits: Array<BenefitType> = [
   {
